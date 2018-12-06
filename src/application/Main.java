@@ -29,6 +29,7 @@ public class Main extends Application {
 	        primaryStage.setTitle("Flowey Shimeji ;)");
 			primaryStage.setScene(scene);
 			primaryStage.show();
+
 		} catch(Exception e) {
 			e.printStackTrace();
 		}
